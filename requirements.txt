@@ -1,0 +1,5 @@
+pylab
+matplotlib
+scipy
+numpy
+networkx
